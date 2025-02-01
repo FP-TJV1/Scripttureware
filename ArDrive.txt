@@ -1,0 +1,24 @@
+ArDrive
+https://app.ardrive.io/#/drives/15a351d4-fa3f-4765-8df6-78d7cd1f5a54?name=Scriptureware
+
+--
+
+ArWeave:
+
+Scriptureware v1.00 Tractatus Machinico-Sacralis:
+https://arweave.net/UuKeL2mdBN-YxR5vijkjdu3mXMm45PmTxU7gOXB4n4A
+
+Scriptureware v1.00 Content Filehash
+https://arweave.net/9dOHyhsCGyWfovb4_avlUbBgtw9TbwnQAM0TGfYl3qM
+
+README:
+https://arweave.net/HelIFDScKw-O5D5sDqlCgCmSL-4lpGO4xIy3xupLDn4
+
+LICENSE:
+https://arweave.net/hA-jS0StpNEU2O3ZudmMY-Adhczr8EMF9vsgdkqNvLg
+
+CID:
+https://arweave.net/dWKN4ZG7oi54Q5ge0c3PrzlEsKVg9pHdrUrPrbQEMTA
+
+Scriputureware v1.00 rar
+https://arweave.net/GlwUQ2sPx-Va3WAOa3t7eefkhofM_UBSE0sn_fuhFCg.rar
