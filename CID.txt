@@ -1,5 +1,7 @@
-CID
+IPFS CID
 
 License: bafkreibzblqgkbd3tfpwlvbwdpguykyxrkrhmzffe6azloju7grucrreki
 README: bafkreiekabuqrmxq5hgimrq3ozoysb5ikoc3hzulxl7phxluy6bigfudmu
+ArDrive: bafkreibwnkuw4ynosfawjlomh2l4yeh7n3zt3khnggqstjiydl4z6kaxqy
+Scriptureware v1.00 Content Filehash: bafkreidftsuwdbn6bch22pf6gow7ps5gz5yg666q7x5pmhhdinws645p7a
 Scriptureware v1.00: bafybeifdi6ovsi5n7j4bm4pl23dzbifcvkolbuwoq6jarxuvks5hz4hdmi
